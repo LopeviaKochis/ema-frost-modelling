@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+
+# Datos (Generalmente no se suben los datasets al repo)
+data/
+*.csv
+*.xlsx
+
+# Logs y archivos de sistema
+*.log
+.DS_Store
+Thumbs.db
