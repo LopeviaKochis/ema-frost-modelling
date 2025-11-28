@@ -81,8 +81,8 @@ Las predicciones numéricas se convierten en categorías de riesgo para la toma 
 | Color | Categoría | Definición | Acción |
 | :--- | :--- | :--- | :--- |
 | 🟢 **Verde** | Normal | $T > 0^\circ C$ | Sin riesgo. |
-| 🟡 **Amarillo** | Helada Meteorológica | $0^\circ C \ge T > -2^\circ C$ | Alerta preventiva. |
-| 🔴 **Rojo** | Helada Agrícola | $T \le -2^\circ C$ | Daño severo a cultivos. |
+| 🟡 **Amarillo** | Helada Meteorológica | $0^\circ C \ge T > -3^\circ C$ | Alerta preventiva. |
+| 🔴 **Rojo** | Helada Agrícola | $T \le -3^\circ C$ | Daño severo a cultivos. |
 
 ## Resultados
 
